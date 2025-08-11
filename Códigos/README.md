@@ -1,19 +1,11 @@
----
-
-## 🖥 Arquivos HTML
-
 ### **1. `index.html`**
-- **Função:** Página inicial e principal do site.
-- **Principais seções:**
-  - **Hero Banner** com slogan, chamada para ação e imagem destaque.
-  - **O que é Economia Circular** com cards interativos.
-  - **Nosso Impacto** com estatísticas e imagem ilustrativa.
-  - **Benefícios** em formato de grade de ícones.
-  - **Depoimentos** de parceiros fictícios.
-  - **Rodapé** com redes sociais e newsletter.
-
----
-
+- **Função:** Página inicial do site.
+- **Seções principais:**
+  - Banner de destaque com slogan e chamada para ação.
+  - Explicação sobre economia circular.
+  - Impacto e benefícios esperados.
+  - Depoimentos fictícios.
+  - Rodapé com links e formulário de newsletter.
 ### **2. `equipe.html`**
 - **Função:** Apresentar os membros da equipe fundadora.
 - **Conteúdo:**
