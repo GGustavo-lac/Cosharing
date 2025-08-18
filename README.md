@@ -71,7 +71,7 @@ Queremos que o **CoSharing** se torne um exemplo de inovação sustentável no B
 ---
 
 ## 🖼️ Conceito Visual
-(<img width="800" height="656" alt="image" src="https://github.com/user-attachments/assets/850cad0e-9c85-48ea-bc4b-9ed0daa357af
+(<img width="800" height="656" alt="image" src="(https://github.com/user-attachments/assets/12bc94e0-58e4-4d8e-896d-d86b9683a1a0)
 " />
 )  
 > Imagem conceitual representando o ciclo de reaproveitamento e colaboração.
