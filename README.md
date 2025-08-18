@@ -71,8 +71,7 @@ Queremos que o **CoSharing** se torne um exemplo de inovação sustentável no B
 ---
 
 ## 🖼️ Conceito Visual
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/3cfcd0ca-117d-4765-8b01-ec7beecd3fa6
-" />
+<img width="1024" height="1024" alt="logo" src="Video-do-Programa-da-Coleta-Seletiva-2-1024x576](https://github.com/user-attachments/assets/a7ab753c-7af6-4b97-837a-c205cc94f5e4" />
 
 > Imagem conceitual representando o ciclo de reaproveitamento e colaboração.
 
