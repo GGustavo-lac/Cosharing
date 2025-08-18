@@ -1,6 +1,7 @@
 # 🌱 CoSharing – Onde a Reciclagem Encontrará a Inovação  
 
-![CoSharing Logo]<img width="800" height="656" alt="image" href="imagens/logo.png"/>)  
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/6e2682fa-5321-40ef-8559-2fbee766582c" />
+  
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)  
 ![Visão](https://img.shields.io/badge/visão-economia%20circular-green)  
