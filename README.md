@@ -70,7 +70,8 @@ Queremos que o **CoSharing** se torne um exemplo de inovação sustentável no B
 ---
 
 ## 🖼️ Conceito Visual
-![Economia Circular]([[https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=1000&q=80](https://lh5.googleusercontent.com/s89grkppjaX5Hmcht9ylLeBFMq1itNa0wJXYzmdT6PgyFVBSu6WqFsUfWAgqjimkKlT-2NJChtLV-deg6GgyzGe6p4XtjazuW4d07IPlWxjpIlxLppFBqaRRjz4H1TQPcKztHXLl)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpetesa.eng.ufba.br%2Fblog%2Fvoce-sabe-o-que-e-economia-circular&psig=AOvVaw3ZnGe-MKIAc494Mvv1jdfa&ust=1755643768455000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCsxOy4lY8DFQAAAAAdAAAAABAE))  
+![Economia Circular](<img width="800" height="656" alt="image" src="https://github.com/user-attachments/assets/5fd34bcd-e41a-4882-99d7-ecd6992c1a5b" />
+)  
 > Imagem conceitual representando o ciclo de reaproveitamento e colaboração.
 
 ---
