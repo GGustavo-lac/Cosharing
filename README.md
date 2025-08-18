@@ -1,6 +1,6 @@
 # 🌱 CoSharing – Onde a Reciclagem Encontrará a Inovação  
 
-![CoSharing Logo](imagens/logo.png)
+![CoSharing Logo]<img width="800" height="656" alt="image" src="imagens/logo.png"/>)  
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)  
 ![Visão](https://img.shields.io/badge/visão-economia%20circular-green)  
@@ -70,7 +70,8 @@ Queremos que o **CoSharing** se torne um exemplo de inovação sustentável no B
 ---
 
 ## 🖼️ Conceito Visual
-![Economia Circular](<img width="800" height="656" alt="image" src="https://github.com/user-attachments/assets/5fd34bcd-e41a-4882-99d7-ecd6992c1a5b" />
+![Economia Circular](<img width="800" height="656" alt="image" src="https://lh5.googleusercontent.com/s89grkppjaX5Hmcht9ylLeBFMq1itNa0wJXYzmdT6PgyFVBSu6WqFsUfWAgqjimkKlT-2NJChtLV-deg6GgyzGe6p4XtjazuW4d07IPlWxjpIlxLppFBqaRRjz4H1TQPcKztHXLl
+" />
 )  
 > Imagem conceitual representando o ciclo de reaproveitamento e colaboração.
 
