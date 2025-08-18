@@ -71,7 +71,7 @@ Queremos que o **CoSharing** se torne um exemplo de inovação sustentável no B
 ---
 
 ## 🖼️ Conceito Visual
-![Economia Circular](<img width="800" height="656" alt="image" src="https://lh5.googleusercontent.com/s89grkppjaX5Hmcht9ylLeBFMq1itNa0wJXYzmdT6PgyFVBSu6WqFsUfWAgqjimkKlT-2NJChtLV-deg6GgyzGe6p4XtjazuW4d07IPlWxjpIlxLppFBqaRRjz4H1TQPcKztHXLl
+(<img width="800" height="656" alt="image" src="https://github.com/user-attachments/assets/850cad0e-9c85-48ea-bc4b-9ed0daa357af
 " />
 )  
 > Imagem conceitual representando o ciclo de reaproveitamento e colaboração.
